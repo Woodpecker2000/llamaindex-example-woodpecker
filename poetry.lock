@@ -1377,4 +1377,17 @@ langchain = [
     {file = "langchain-0.0.169.tar.gz", hash = "sha256:492ca88615eb850ef208966e18ace5dcfd55b0d3d4e14f28319da0b00f90e7eb"},
 ]
 llama-index = [
-    {file = "ll
+    {file = "llama_index-0.6.7-py3-none-any.whl", hash = "sha256:77653db743b146bb510f1149ff7a362f1d2779b7e0c33fc381d8abd32548dee9"},
+    {file = "llama_index-0.6.7.tar.gz", hash = "sha256:872e784450611918a7f1d13d741f241bcb8902370bef70acb6be908406e19e67"},
+]
+marshmallow = [
+    {file = "marshmallow-3.19.0-py3-none-any.whl", hash = "sha256:93f0958568da045b0021ec6aeb7ac37c81bfcccbb9a0e7ed8559885070b3a19b"},
+    {file = "marshmallow-3.19.0.tar.gz", hash = "sha256:90032c0fd650ce94b6ec6dc8dfeb0e3ff50c144586462c389b81a07205bedb78"},
+]
+marshmallow-enum = [
+    {file = "marshmallow-enum-1.5.1.tar.gz", hash = "sha256:38e697e11f45a8e64b4a1e664000897c659b60aa57bfa18d44e226a9920b6e58"},
+    {file = "marshmallow_enum-1.5.1-py2.py3-none-any.whl", hash = "sha256:57161ab3dbfde4f57adeb12090f39592e992b9c86d206d02f6bd03ebec60f072"},
+]
+matplotlib-inline = [
+    {file = "matplotlib-inline-0.1.6.tar.gz", hash = "sha256:f887e5f10ba98e8d2b150ddcf4702c1e5f8b3a20005eb0f74bfdbd360ee6f304"},
+    {file = "matplotl
