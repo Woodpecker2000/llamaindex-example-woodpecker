@@ -1362,4 +1362,19 @@ ipython = [
 ]
 jedi = [
     {file = "jedi-0.18.2-py2.py3-none-any.whl", hash = "sha256:203c1fd9d969ab8f2119ec0a3342e0b49910045abe6af0a3ae83a5764d54639e"},
-    {file = "jedi-0.18.2.
+    {file = "jedi-0.18.2.tar.gz", hash = "sha256:bae794c30d07f6d910d32a7048af09b5a39ed740918da923c6b780790ebac612"},
+]
+jupyter-client = [
+    {file = "jupyter_client-8.2.0-py3-none-any.whl", hash = "sha256:b18219aa695d39e2ad570533e0d71fb7881d35a873051054a84ee2a17c4b7389"},
+    {file = "jupyter_client-8.2.0.tar.gz", hash = "sha256:9fe233834edd0e6c0aa5f05ca2ab4bdea1842bfd2d8a932878212fc5301ddaf0"},
+]
+jupyter-core = [
+    {file = "jupyter_core-5.3.0-py3-none-any.whl", hash = "sha256:d4201af84559bc8c70cead287e1ab94aeef3c512848dde077b7684b54d67730d"},
+    {file = "jupyter_core-5.3.0.tar.gz", hash = "sha256:6db75be0c83edbf1b7c9f91ec266a9a24ef945da630f3120e1a0046dc13713fc"},
+]
+langchain = [
+    {file = "langchain-0.0.169-py3-none-any.whl", hash = "sha256:dacd8e33daf47d0a523298aa35ed1409cc1ae4a1fcab8480e98401158b9d6c39"},
+    {file = "langchain-0.0.169.tar.gz", hash = "sha256:492ca88615eb850ef208966e18ace5dcfd55b0d3d4e14f28319da0b00f90e7eb"},
+]
+llama-index = [
+    {file = "ll
