@@ -1772,4 +1772,10 @@ pyzmq = [
     {file = "pyzmq-25.0.2-cp37-cp37m-musllinux_1_1_aarch64.whl", hash = "sha256:510d8e55b3a7cd13f8d3e9121edf0a8730b87d925d25298bace29a7e7bc82810"},
     {file = "pyzmq-25.0.2-cp37-cp37m-musllinux_1_1_i686.whl", hash = "sha256:b164cc3c8acb3d102e311f2eb6f3c305865ecb377e56adc015cb51f721f1dda6"},
     {file = "pyzmq-25.0.2-cp37-cp37m-musllinux_1_1_x86_64.whl", hash = "sha256:28fdb9224a258134784a9cf009b59265a9dde79582fb750d4e88a6bcbc6fa3dc"},
-    {file = "pyzmq-25.0.2-cp37-cp37m-win32.whl", hash = "sha256:dd771a44
+    {file = "pyzmq-25.0.2-cp37-cp37m-win32.whl", hash = "sha256:dd771a440effa1c36d3523bc6ba4e54ff5d2e54b4adcc1e060d8f3ca3721d228"},
+    {file = "pyzmq-25.0.2-cp37-cp37m-win_amd64.whl", hash = "sha256:9bdc40efb679b9dcc39c06d25629e55581e4c4f7870a5e88db4f1c51ce25e20d"},
+    {file = "pyzmq-25.0.2-cp38-cp38-macosx_10_15_universal2.whl", hash = "sha256:1f82906a2d8e4ee310f30487b165e7cc8ed09c009e4502da67178b03083c4ce0"},
+    {file = "pyzmq-25.0.2-cp38-cp38-macosx_10_9_x86_64.whl", hash = "sha256:21ec0bf4831988af43c8d66ba3ccd81af2c5e793e1bf6790eb2d50e27b3c570a"},
+    {file = "pyzmq-25.0.2-cp38-cp38-manylinux_2_12_i686.manylinux2010_i686.whl", hash = "sha256:abbce982a17c88d2312ec2cf7673985d444f1beaac6e8189424e0a0e0448dbb3"},
+    {file = "pyzmq-25.0.2-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl", hash = "sha256:9e1d2f2d86fc75ed7f8845a992c5f6f1ab5db99747fb0d78b5e4046d041164d2"},
+    {file = "pyzmq-25.0.2-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:a2e92ff20ad5d13266bc999a29ed29a3b5b101c21fdf4b2cf420c09db9fb690e
