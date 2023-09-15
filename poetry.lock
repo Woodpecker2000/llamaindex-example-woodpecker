@@ -1810,4 +1810,12 @@ pyzmq = [
     {file = "pyzmq-25.0.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:b491998ef886662c1f3d49ea2198055a9a536ddf7430b051b21054f2a5831800"},
     {file = "pyzmq-25.0.2-pp39-pypy39_pp73-manylinux_2_28_x86_64.whl", hash = "sha256:5d496815074e3e3d183fe2c7fcea2109ad67b74084c254481f87b64e04e9a471"},
     {file = "pyzmq-25.0.2-pp39-pypy39_pp73-win_amd64.whl", hash = "sha256:56a94ab1d12af982b55ca96c6853db6ac85505e820d9458ac76364c1998972f4"},
-    {file = "pyzmq-25.0.2.tar.gz", hash 
+    {file = "pyzmq-25.0.2.tar.gz", hash = "sha256:6b8c1bbb70e868dc88801aa532cae6bd4e3b5233784692b786f17ad2962e5149"},
+]
+regex = [
+    {file = "regex-2023.5.5-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:48c9ec56579d4ba1c88f42302194b8ae2350265cb60c64b7b9a88dcb7fbde309"},
+    {file = "regex-2023.5.5-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:02f4541550459c08fdd6f97aa4e24c6f1932eec780d58a2faa2068253df7d6ff"},
+    {file = "regex-2023.5.5-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:53e22e4460f0245b468ee645156a4f84d0fc35a12d9ba79bd7d79bdcd2f9629d"},
+    {file = "regex-2023.5.5-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl", hash = "sha256:4b870b6f632fc74941cadc2a0f3064ed8409e6f8ee226cdfd2a85ae50473aa94"},
+    {file = "regex-2023.5.5-cp310-cp310-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:171c52e320fe29260da550d81c6b99f6f8402450dc7777ef5ced2e848f3b6f8f"},
+    {file = "regex-2023.5.5-cp310-cp310-manylinux_2_17_x86_
