@@ -1848,4 +1848,11 @@ regex = [
     {file = "regex-2023.5.5-cp36-cp36m-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:844671c9c1150fcdac46d43198364034b961bd520f2c4fdaabfc7c7d7138a2dd"},
     {file = "regex-2023.5.5-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:c2ce65bdeaf0a386bb3b533a28de3994e8e13b464ac15e1e67e4603dd88787fa"},
     {file = "regex-2023.5.5-cp36-cp36m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:fee0016cc35a8a91e8cc9312ab26a6fe638d484131a7afa79e1ce6165328a135"},
-    {file = "regex-2023.5.5-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl"
+    {file = "regex-2023.5.5-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl", hash = "sha256:18f05d14f14a812fe9723f13afafefe6b74ca042d99f8884e62dbd34dcccf3e2"},
+    {file = "regex-2023.5.5-cp36-cp36m-musllinux_1_1_aarch64.whl", hash = "sha256:941b3f1b2392f0bcd6abf1bc7a322787d6db4e7457be6d1ffd3a693426a755f2"},
+    {file = "regex-2023.5.5-cp36-cp36m-musllinux_1_1_i686.whl", hash = "sha256:921473a93bcea4d00295799ab929522fc650e85c6b9f27ae1e6bb32a790ea7d3"},
+    {file = "regex-2023.5.5-cp36-cp36m-musllinux_1_1_ppc64le.whl", hash = "sha256:e2205a81f815b5bb17e46e74cc946c575b484e5f0acfcb805fb252d67e22938d"},
+    {file = "regex-2023.5.5-cp36-cp36m-musllinux_1_1_s390x.whl", hash = "sha256:385992d5ecf1a93cb85adff2f73e0402dd9ac29b71b7006d342cc920816e6f32"},
+    {file = "regex-2023.5.5-cp36-cp36m-musllinux_1_1_x86_64.whl", hash = "sha256:890a09cb0a62198bff92eda98b2b507305dd3abf974778bae3287f98b48907d3"},
+    {file = "regex-2023.5.5-cp36-cp36m-win32.whl", hash = "sha256:821a88b878b6589c5068f4cc2cfeb2c64e343a196bc9d7ac68ea8c2a776acd46"},
+    {file = "regex-2023.5.5-cp
