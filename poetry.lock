@@ -1898,4 +1898,18 @@ regex = [
     {file = "regex-2023.5.5-cp39-cp39-musllinux_1_1_ppc64le.whl", hash = "sha256:72aa4746993a28c841e05889f3f1b1e5d14df8d3daa157d6001a34c98102b393"},
     {file = "regex-2023.5.5-cp39-cp39-musllinux_1_1_s390x.whl", hash = "sha256:de2f780c3242ea114dd01f84848655356af4dd561501896c751d7b885ea6d3a1"},
     {file = "regex-2023.5.5-cp39-cp39-musllinux_1_1_x86_64.whl", hash = "sha256:290fd35219486dfbc00b0de72f455ecdd63e59b528991a6aec9fdfc0ce85672e"},
-    {file = "regex-2023.5.5-cp39-cp39-win32.whl", hash = "sha256:732176f5427e72fa2325b05c58ad0b45af341c459910d766f814b0584ac1f
+    {file = "regex-2023.5.5-cp39-cp39-win32.whl", hash = "sha256:732176f5427e72fa2325b05c58ad0b45af341c459910d766f814b0584ac1f9ac"},
+    {file = "regex-2023.5.5-cp39-cp39-win_amd64.whl", hash = "sha256:1307aa4daa1cbb23823d8238e1f61292fd07e4e5d8d38a6efff00b67a7cdb764"},
+    {file = "regex-2023.5.5.tar.gz", hash = "sha256:7d76a8a1fc9da08296462a18f16620ba73bcbf5909e42383b253ef34d9d5141e"},
+]
+requests = [
+    {file = "requests-2.29.0-py3-none-any.whl", hash = "sha256:e8f3c9be120d3333921d213eef078af392fba3933ab7ed2d1cba3b56f2568c3b"},
+    {file = "requests-2.29.0.tar.gz", hash = "sha256:f2e34a75f4749019bb0e3effb66683630e4ffeaf75819fb51bebef1bf5aef059"},
+]
+six = [
+    {file = "six-1.16.0-py2.py3-none-any.whl", hash = "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"},
+    {file = "six-1.16.0.tar.gz", hash = "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926"},
+]
+sqlalchemy = [
+    {file = "SQLAlchemy-2.0.13-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:7ad24c85f2a1caf0cd1ae8c2fdb668777a51a02246d9039420f94bd7dbfd37ed"},
+   
